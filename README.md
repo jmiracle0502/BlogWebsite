@@ -1,7 +1,7 @@
 # BlogWebsite
 
 ## Project Overview
-BlogWebsite is a collaborative project aimed at creating a family memory blog where users can share pictures, stories, or drawings. This platform is built using Flask, designed to be simple yet functional, providing a personal space for families to document and share their cherished memories.
+BlogWebsite is a collaborative project aimed at creating a blog where users can share blog posts and pictures. This platform is built using Flask, designed to be simple yet functional, providing a personal space for anyone to document and share their memories and experiences.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
